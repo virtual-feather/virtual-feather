@@ -1,5 +1,15 @@
-### Welcome All 
+# Welcome All 
 
+I'm Brenden Monteleone, a senior at Adelphi University. 
+
+When not coding, you can usually find me playing guitar or exploring nature.
+
+--------
+
+Programming Languages:
+* Python
+* PHP
+* Java
 <!--
 **virtual-feather/virtual-feather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
