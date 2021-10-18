@@ -6,10 +6,13 @@ When not coding, you can usually find me playing guitar or exploring nature.
 
 --------
 
-Programming Languages:
+Languages:
 * Python
 * PHP
 * Java
+* SQL
+* C
+* C++
 <!--
 **virtual-feather/virtual-feather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
