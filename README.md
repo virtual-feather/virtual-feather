@@ -3,13 +3,21 @@
 I'm Brenden Monteleone, a senior at Adelphi University.  
 When not coding, you can usually find me playing guitar or exploring the outdoors.
 
+## Languages
 
-## Languages:
+- Python
+- PHP
+- Java
+- C
+- C++
 
-* Python
-* PHP
-* Java
-* SQL
-* C
-* C++
+## Frameworks:
+
+- Node.js
+
+## Other:
+
+- HTML5
+- CSS
+- MySQL
 
